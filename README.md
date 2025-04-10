@@ -20,4 +20,6 @@ A comprehensive time tracking extension that integrates with various project man
 TrackingTime:
 This modern time tracking app assists in managing projects and tasks, tracking working times, and measuring productivity, integrating seamlessly with Google Workspace. 
 When selecting an extension, consider factors such as ease of use, integration capabilities with your existing tools, and the specific productivity insights you aim to gain. Each of these extensions offers unique features tailored to different workflows and preferences.
+"output:"
+![Image](https://github.com/user-attachments/assets/c139f640-520d-4f12-ae29-ad48599db8a4)
 
